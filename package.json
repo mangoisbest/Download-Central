@@ -1,6 +1,6 @@
 {
   "name": "DownloadCentral",
-  "version": "1.0.0.1",
+  "version": "1.0.1",
   "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
@@ -32,19 +32,6 @@
   },
   "config": {
     "forge": {
-      "publishers": [
-        {
-          "name": "@electron-forge/publisher-github",
-          "config": {
-            "repository": {
-              "owner": "mangoisbest",
-              "name": "Download-Central-Dev"
-            },
-            "prerelease": false,
-            "draft": true
-          }
-        }
-      ],
       "packagerConfig": {},
       "makers": [
         {
@@ -66,6 +53,19 @@
         {
           "name": "@electron-forge/maker-rpm",
           "config": {}
+        }
+      ],
+      "publishers": [
+        {
+          "name": "@electron-forge/publisher-github",
+          "config": {
+            "repository": {
+              "owner": "mangoisbest",
+              "name": "Download-Central-Dev"
+            },
+            "prerelease": false,
+            "draft": true
+          }
         }
       ]
     }
