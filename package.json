@@ -1,7 +1,7 @@
 {
-  "name": "DownloadCentral",
+  "name": "Download-Central",
   "version": "1.0.1",
-  "description": "A minimal Electron application",
+  "description": "Download central is a app where you can download desktop applications or files.",
   "main": "main.js",
   "scripts": {
     "start": "electron-forge start",
