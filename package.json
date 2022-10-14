@@ -1,5 +1,8 @@
 {
   "name": "Download-Central-Dev-master",
+  "version": "1.0.0",
+  "description": "Download Central is a store to download other desktop apps",
+  "author": {"name": "Ash"},
   "packageManager": "yarn@3.2.4",
   "devDependencies": {
     "electron-builder": "^23.6.0"
