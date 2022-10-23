@@ -1,16 +1,8 @@
 {
-  "name": "Download-Central-Dev-master",
-  "packageManager": "yarn@3.2.4",
-  "devDependencies": {
-    "@electron-forge/cli": "^6.0.0-beta.67",
-    "electron": "^21.2.0"
-  },
-  "dependencies": {
-    "electron-squirrel-startup": "^1.0.0"
-  },
-  "scripts": {
-    "start": "electron-forge start",
-    "package": "electron-forge package",
-    "make": "electron-forge make"
-  }
+  "name": "download-central",
+  "version": "1.0.2",
+  "description": "Download central is a windows app to down other desktop apps and files",
+  "main": "main.js",
+  "author": "ASHES SOFTWARE",
+  "license": "MIT"
 }
