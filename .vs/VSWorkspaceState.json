@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src\\pages",
+    "\\src\\pages\\apps",
+    "\\src\\pages\\apps\\Youtube"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }
