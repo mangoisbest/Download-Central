@@ -1,13 +1,9 @@
 {
-  "name": "Download-Central-Dev-master",
-  "version": "1.0.0",
-  "description": "Download Central is a store to download other desktop apps",
-  "author": {"name": "Ash"},
   "name": "download-central",
   "version": "1.0.2",
   "description": "Download central is a windows app to down other desktop apps and files",
-  "main": "main.js",
   "author": "ASHES SOFTWARE",
+  "main": "main.js",
   "license": "MIT",
   "devDependencies": {
     "@electron-forge/cli": "^6.0.0-beta.75",
