@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src\\pages",
-    "\\src\\pages\\apps",
+    "\\src",
     "\\src\\pages\\apps\\Youtube"
   ],
-  "SelectedNode": "\\src",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
