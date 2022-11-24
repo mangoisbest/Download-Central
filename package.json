@@ -11,7 +11,9 @@
     "@electron-forge/maker-rpm": "^6.0.3",
     "@electron-forge/maker-squirrel": "^6.0.0-beta.67",
     "@electron-forge/maker-zip": "^6.0.3",
-    "electron": "^21.3.0"
+    "electron": "^21.3.1",
+    "electron-installer-windows": "^3.0.0",
+    "electron-packager": "^17.1.1"
   },
   "dependencies": {
     "@material-ui/core": "^4.12.4",
@@ -19,8 +21,9 @@
   },
   "scripts": {
     "start": "electron-forge start",
-    "package": "electron-forge package",
-    "make": "electron-forge make"
+    "package": "electron-installer-windows --src dist/app-win32-x64/ --dest dist/installers/",
+    "make": "electron-forge make",
+    "setup": "electron-installer-windows --src dist/app-win32-x64/ --dest dist/installers/"
   },
   "config": {
     "forge": {
