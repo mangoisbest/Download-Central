@@ -1,5 +1,5 @@
 document.getElementById("BotzStoreButton").addEventListener("click", BotzStore)
-document.getElementById("OperaGXButton").addEventListener("click", OpreaGX)
+document.getElementById("OperaGXButton").addEventListener("click", OperaGX)
 document.getElementById("BraveBrowser").addEventListener("click", BraveBrowser)
 
 function DisplayApp(title, creator, date, download, version) {
@@ -12,36 +12,30 @@ function DisplayApp(title, creator, date, download, version) {
 
 function BraveBrowser() {
   DisplayApp(
-    "App Name: Brave Browser",
-    "App Creator: Brave Software Inc",
-    "App Created: n/a",
-    '<a href="https://github.com/brave/brave-browser/releases/download/v1.45.131/BraveBrowserStandaloneSetup.exe">Download Brave Browser</a>',
-    "App Version: v1.45.131"
+    "App Name: Brave Browser", // App Name; The name of the application.
+    "App Creator: Brave Software Inc", // App Creator; the creator/developer of the application.
+    "App Created: n/a", // App Created; The date that the application was made.
+    '<a href="https://github.com/brave/brave-browser/releases/download/v1.45.131/BraveBrowserStandaloneSetup.exe">Download Brave Browser</a>', // App Download Link; the link to download the application.
+    "App Version: v1.45.131" // App Version; the version of the application
   )
 };
 
-
-function BraveBrowser() {
-  appTitle.innerHTML = "App Name: Brave Browser"
-  appCreator.innerHTML = "App Creator: Brave Software Inc"
-  appDate.innerHTML = "App Created: n/a"
-  DownloadArea.innerHTML = '<a href="https://github.com/brave/brave-browser/releases/download/v1.45.131/BraveBrowserStandaloneSetup.exe">Download Brave Browser</a>'
-  appVersion.innerHTML = "App Version: v1.45.131"
-};
-
 function BotzStore() {
-  appTitle.innerHTML = "App Name: Botz Store"
-  appCreator.innerHTML = "App Creator: ASHES SOFTWARE"
-  appDate.innerHTML = "App Created: n/a"
-  DownloadArea.innerHTML = '<a href="https://github.com/mangoisbest/Download-Central-Dev-master/releases/download/V1.0.2/downloadCentralSetupV1.0.2.exe">Download Botz Store</a>'
-  appVersion.innerHTML = "App Version: v1.0.2"
+  DisplayApp(
+    "App Name: Botz Store", // App Name; The name of the application.
+    "App Creator: ASHES SOFTWARE", // App Creator; the creator/developer of the application.
+    "App Created: 2022", // App Created; The date that the application was made.
+    '<a href="https://github.com/mangoisbest/Download-Central-Dev-master/releases/download/V1.0.2/downloadCentralSetupV1.0.2.exe">Download Botz Store</a>', // App Download Link; the link to download the application.
+    "App Version: v1.0.3" // App Version; the version of the application
+  )
 };
 
-function OpreaGX() {
-  appTitle.innerHTML = "App Name: Oprea GX Browser"
-  appCreator.innerHTML = "App Creator: n/a"
-  appDate.innerHTML = "App Created: n/a"
-  DownloadArea.innerHTML = '<a href="https://get.geo.opera.com/pub/opera_gx/92.0.4561.71/win/Opera_GX_92.0.4561.71_Setup_x64.exe">Download OpreaGX Browser</a>'
-  appVersion.innerHTML = "App Version: v92.0.4561.71"
+function OperaGX() {
+  DisplayApp(
+    "App Name: Oprea GX Browser", // App Name; The name of the application.
+    "App Creator: n/a", // App Creator; the creator/developer of the application.
+    "App Created: n/a", // App Created; The date that the application was made.
+    '<a href="https://get.geo.opera.com/pub/opera_gx/92.0.4561.71/win/Opera_GX_92.0.4561.71_Setup_x64.exe">Download OpreaGX Browser</a>', // App Download Link; the link to download the application.
+    "App Version: v92.0.4561.71" // App Version; the version of the application
+  )
 };
-

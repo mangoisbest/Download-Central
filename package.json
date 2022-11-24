@@ -1,6 +1,6 @@
 {
   "name": "download-central",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Download central is a windows app to down other desktop apps and files",
   "author": "ASHES SOFTWARE",
   "main": "main.js",
