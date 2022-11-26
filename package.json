@@ -13,7 +13,8 @@
     "@electron-forge/maker-zip": "^6.0.3",
     "electron": "^21.3.1",
     "electron-installer-windows": "^3.0.0",
-    "electron-packager": "^17.1.1"
+    "electron-packager": "^17.1.1",
+    "electron-wix-msi": "^5.0.0"
   },
   "dependencies": {
     "@material-ui/core": "^4.12.4",
