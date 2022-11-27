@@ -2,13 +2,13 @@ document.getElementById("BotzStoreButton").addEventListener("click", BotzStore)
 document.getElementById("OperaGXButton").addEventListener("click", OperaGX)
 document.getElementById("BraveBrowser").addEventListener("click", BraveBrowser)
 
-function DisplayApp(title, creator, date, download, version, icon) {
-  appTitle.innerHTML = title 
-  appCreator.innerHTML = creator
-  appDate.innerHTML = date
-  DownloadArea.innerHTML = download
-  appVersion.innerHTML = version
-  appIcon.innerHTML = icon
+function DisplayApp(APPTITLE, APPCREATOR, APPDATE, APPDOWNLOADLINK, APPVERSION, APPICON) {
+  appTitle.innerHTML = APPTITLE 
+  appCreator.innerHTML = APPCREATOR
+  appDate.innerHTML = APPDATE
+  DownloadArea.innerHTML = APPDOWNLOADLINK
+  appVersion.innerHTML = APPVERSION
+  appIcon.innerHTML = APPICON
 };
 
 function BraveBrowser() {
@@ -18,7 +18,7 @@ function BraveBrowser() {
     "App Created: n/a", // App Created; The date that the application was made.
     '<a href="https://github.com/brave/brave-browser/releases/download/v1.45.131/BraveBrowserStandaloneSetup.exe">Download Brave Browser</a>', // App Download Link; the link to download the application.
     "App Version: v1.45.131", // App Version; the version of the application
-    '<img src="https://www.drupal.org/files/project-images/brave-logo.png">'
+    '<img src="https://windows-cdn.softpedia.com/screenshots/ico/Brave.png" width="50" height="50">'
   )
 };
 
@@ -29,7 +29,7 @@ function BotzStore() {
     "App Created: 2022", // App Created; The date that the application was made.
     '<a href="https://github.com/mangoisbest/Download-Central-Dev-master/releases/download/V1.0.2/downloadCentralSetupV1.0.2.exe">Download Botz Store</a>', // App Download Link; the link to download the application.
     "App Version: v1.0.3", // App Version; the version of the application
-    '<img src="./icon.ico">'
+    '<p class="warn">No image currently.</p>'
   )
 };
 
@@ -38,8 +38,8 @@ function OperaGX() {
     "App Name: Opera GX Browser", // App Name; The name of the application.
     "App Creator: n/a", // App Creator; the creator/developer of the application.
     "App Created: n/a", // App Created; The date that the application was made.
-    '<a href="https://get.geo.opera.com/pub/opera_gx/92.0.4561.71/win/Opera_GX_92.0.4561.71_Setup_x64.exe">Download OpreaGX Browser</a>', // App Download Link; the link to download the application.
+    '<a href="https://get.geo.opera.com/pub/opera_gx/92.0.4561.71/win/Opera_GX_92.0.4561.71_Setup_x64.exe">Download OperaGX Browser</a>', // App Download Link; the link to download the application.
     "App Version: v92.0.4561.71", // App Version; the version of the application
-    '<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Opera_GX_Icon.svg/2048px-Opera_GX_Icon.svg.png">'
+    '<img src="https://play-lh.googleusercontent.com/sTPusxi30AHxiRHEFK9i5BCK-Y8BJ6Y_NCQNq6l9U6BuDv8kNRdIfsHzvmlA1XULDb3c" width="50" height="50">'
   )
 };

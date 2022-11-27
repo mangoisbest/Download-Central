@@ -8,6 +8,10 @@
   background-color: black;
 }
 
+.warn {
+    color: orange;
+}
+
 .appDetailsDiv {
     float: right;
 }
