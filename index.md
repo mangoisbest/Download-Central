@@ -1,4 +1,4 @@
-# Welcome tp Download Central
+# Welcome to Download Central
 
 **This app is a File/App store where you can download files without malware and bad files**
 
