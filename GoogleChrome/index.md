@@ -4,4 +4,6 @@
 
 **By Google Inc**
 
-**Version n/a**
+**Version 108.0.5359.128**
+
+[Download APK](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=4239796&key=86b4b1c938c75fbf9964a642097235fa4b31e0db)
