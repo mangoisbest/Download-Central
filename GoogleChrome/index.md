@@ -23,7 +23,7 @@
 
 **Version 108.0.5359.128**
 
-[Download APK](https://play.google.com/store/apps/details?id=com.android.chrome)
+[https://play.google.com/store/apps/details?id=com.android.chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
 
 
 <!-- End of Page Code -->
