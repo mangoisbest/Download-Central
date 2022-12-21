@@ -23,7 +23,7 @@
 
 **Version 108.0.5359.128**
 
-<a href="[https://www.WordPress.com](https://play.google.com/store/apps/details?id=com.android.chrome)" target="_blank">Download APK</a>
+<a href="https://play.google.com/store/apps/details?id=com.android.chrome" target="_blank">Download APK</a>
 
 
 <!-- End of Page Code -->
