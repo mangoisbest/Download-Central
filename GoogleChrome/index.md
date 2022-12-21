@@ -25,7 +25,7 @@
 
 **Version 108.0.5359.128**
 
-[Download APK]([https://d.apkpure.com/b/APK/com.android.chrome?version=latest](https://www.apkmirror.com/apk/google-inc/chrome/chrome-108-0-5359-128-release/google-chrome-fast-secure-108-0-5359-128-4-android-apk-download/))
+[Download APK](https://www.apkmirror.com/apk/google-inc/chrome/chrome-108-0-5359-128-release/google-chrome-fast-secure-108-0-5359-128-4-android-apk-download/)
 
 
 <!-- End of Page Code -->
