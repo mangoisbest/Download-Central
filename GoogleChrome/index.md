@@ -2,4 +2,4 @@
 
 **Under development.**
 
-**EST until conplete: 5 hours**
+**EST until complete: 5 hours**
