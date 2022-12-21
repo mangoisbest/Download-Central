@@ -2,4 +2,4 @@
 
 **Under development.**
 
-**EST until complete: 5 hours**
+**Estimate time until complete: 5 hours**
