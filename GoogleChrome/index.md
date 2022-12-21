@@ -3,7 +3,7 @@
 
 ![Maintenance](https://image.opencart.com/cache/5abf1dea704be-resize-710x380.jpg)
 
-**The Google Chrome page is currently unavailable due to site maintenance**
+**The Google Chrome page is currently unavailable due to site maintenance to make this page even better!**
 
 **Estimate time until over: not long but this could change so just keep checking back**
 
