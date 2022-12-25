@@ -22,6 +22,6 @@
 
 **Version 17.49.37**
 
-<a href="https://d.apkpure.com/b/APK/com.google.android.youtube?version=latest">Download APK</a>
+<a href="https://d.apkpure.com/b/XAPK/com.google.android.youtube?versionCode=1533275584">Download APK</a>
 
 <!-- End of Page Code -->
