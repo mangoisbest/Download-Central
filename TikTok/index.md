@@ -5,7 +5,7 @@
 
 **The TikTok page is currently down due to page maintenance in order to improve this page and make it better**
 
-**Estimate time until over: Sun 25th - Tue 27th**
+**Estimate time until over: Few minutes**
 
 
 <!-- End of Maintenance Code -->
