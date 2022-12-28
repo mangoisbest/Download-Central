@@ -20,9 +20,15 @@
 
 **By Google Inc**
 
-**Version 17.49.37**
+**App Version 17.49.37**
 
-<a href="https://d.apkpure.com/b/XAPK/com.google.android.youtube?versionCode=1533275584">Download APK</a>
+**App Size: 134.7MB**
+
+**App Updated: Dec 21, 2022**
+
+**v17.49.37 Changelog: For new features, look for in-product education & notifications sharing the feature and how to use it!**
+
+<a href="https://d.apkpure.com/b/APK/com.google.android.youtube?versionCode=1533275584">Download APK</a>
 
 
 <!-- End of Page Code -->
