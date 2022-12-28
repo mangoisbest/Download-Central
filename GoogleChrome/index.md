@@ -19,7 +19,7 @@
 
 **Google Chrome**
 
-**By Google Inc**
+**By Google LLC**
 
 **App Version 108.0.5359.128**
 
