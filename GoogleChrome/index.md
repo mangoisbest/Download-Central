@@ -21,9 +21,15 @@
 
 **By Google Inc**
 
-**Version 108.0.5359.128**
+**App Version 108.0.5359.128**
 
-<a href="https://d.apkpure.com/b/APK/com.android.chrome?version=latest">Download APK</a>
+**App Size: 199.3 MB**
+
+**Last Updated: Dec 13, 2022**
+
+**v108.0.5359.108 Changelog: Thanks for choosing Chrome! This release includes stability and performance improvements.**
+
+<a href="https://d.apkpure.com/b/APK/com.android.chrome?versionCode=535912823">Download Google Chrom v108.0.5359.108 APK</a>
 
 
 <!-- End of Page Code -->
