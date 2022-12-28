@@ -11,3 +11,5 @@
 [YouTube](Youtube/)
 <br>
 [TikTok](TikTok/)
+<br>
+[Netflix](Netflix/)
