@@ -25,6 +25,10 @@
 
 **Size: 129.5MB**
 
+**Update Date: n/a**
+
+**Changelog: n/a**
+
 <a href="https://d.apkpure.com/b/XAPK/com.ss.android.ugc.trill?versionCode=270504">Download APK</a>
 
 
