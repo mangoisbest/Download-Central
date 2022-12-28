@@ -21,15 +21,15 @@
 
 **By TikTok Pte. Ltd.**
 
-**Version 27.5.4**
+**App Version 27.6.1**
 
-**Size: 129.5MB**
+**App Size: 189.9MB**
 
-**Update Date: n/a**
+**Updated: 2022-12-28**
 
-**Changelog: n/a**
+**v27.6.1 Changelog: Elevate your videos with new transition effects.**
 
-<a href="https://d.apkpure.com/b/XAPK/com.ss.android.ugc.trill?versionCode=270504">Download APK</a>
+<a href="https://d.apkpure.com/b/APK/com.zhiliaoapp.musically?versionCode=2022706010">Download TikTok v27.6.1 APK</a>
 
 
 <!-- End of Page Code -->
